@@ -4,7 +4,7 @@
 
 ## Description
 
-Wellocom Onboard fellow C coder, This is a place where you can start your journey and free to contribute too.
+Wellcome Onboard fellow C coder, This is a place where you can start your journey and free to contribute too.
 
 ## Contribution Guidelines
 
