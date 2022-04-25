@@ -4,13 +4,13 @@
 
 ## Description
 
-Wellocom Onboard fellow C coder, This is a place where you can start your journey and free to contribute too.
+Wellcome Onboard fellow C coder!! This is a place where you can start your journey and free to contribute too.
 
 ## Contribution Guidelines
 
 ## Instructions
 * Fork this Repository
-* Clone your forked repository*
+* Clone your forked repository
 * Add your scripts
 * Commit & Push
 * Create a pull request
@@ -22,3 +22,4 @@ Wellocom Onboard fellow C coder, This is a place where you can start your journe
 |SR No |Projects  | Author|
 --- | --- | ---|
 |1|Simple Calculator|James Leo|
+|2|How happy you are|James Leo|
