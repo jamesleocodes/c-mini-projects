@@ -1,3 +1,5 @@
+// Using relational operator to compare data
+
 /* This program asks the user their state of happiness on a scale of 1 to 10
     and then gives a custon 2-line message based on their range, either 1-2, 3-4, 5-7, or
     8-10*/
