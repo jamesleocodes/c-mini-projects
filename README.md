@@ -27,3 +27,4 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 --- | --- | ---|
 |1|Simple Calculator|James Leo|
 |2|How happy you are|James Leo|
+|3|Logical operators|James Leo|
