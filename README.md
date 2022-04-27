@@ -4,11 +4,11 @@
 
 ## Description
 
-<<<<<<< HEAD
+
 Wellcome Onboard fellow C coder!! This is a place where you can start your journey and free to contribute too.
 =======
 Wellcome Onboard fellow C coder, This is a place where you can start your journey and free to contribute too.
->>>>>>> 1fc0eb28ff2d6bcf316ff5aa26fc4623bdcd1411
+
 
 ## Contribution Guidelines
 
