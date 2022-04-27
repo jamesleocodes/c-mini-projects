@@ -29,3 +29,4 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |2|How happy you are|James Leo|
 |3|Logical operators|James Leo|
 |4|Conditional operators|James Leo|
+|5|While loop|James Leo|
