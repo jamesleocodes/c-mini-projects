@@ -25,9 +25,9 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 
 |SR No |Projects  | Author|
 --- | --- | ---|
-|1|Simple Calculator|James Leo|
+|1|Calculator|James Leo|
 |2|How happy you are|James Leo|
 |3|Logical operators|James Leo|
-|4|Conditional operators|James Leo|
+|4|if else|James Leo|
 |5|While loop|James Leo|
 |6|Do While|James Leo|
