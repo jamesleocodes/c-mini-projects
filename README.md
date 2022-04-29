@@ -31,3 +31,4 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |4|if else|James Leo|
 |5|While loop|James Leo|
 |6|Do While|James Leo|
+|7|Data Test|James Leo|
