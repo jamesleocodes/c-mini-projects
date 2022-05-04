@@ -36,3 +36,5 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |9|switch_short|James Leo|
 |10|putchar|James Leo|
 |11|getchar|James Leo|
+|12|password_test|James Leo|
+
