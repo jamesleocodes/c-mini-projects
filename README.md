@@ -34,3 +34,4 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |7|Data Test|James Leo|
 |8|continue|James Leo|
 |9|switch_short|James Leo|
+|10|putchar|James Leo|
