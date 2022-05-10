@@ -9,7 +9,7 @@ int main()
     char st[3];
     char fullLocation[18] = "";
     
-    puts("What twon do you live in ?");
+    puts("What town do you live in ?");
     gets(city);
     
     puts("What state do you live in? (2-letter abreviation)");
