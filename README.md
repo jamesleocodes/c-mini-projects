@@ -38,4 +38,5 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |11|getchar|James Leo|
 |12|password_test|James Leo|
 |13|concatenate_strings|James Leo|
+|14|Roll Two Dice|James Leo|
 
