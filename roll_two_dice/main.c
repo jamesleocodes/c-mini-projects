@@ -18,7 +18,10 @@ int main()
     // Remember that this is needed to make sure each random number
     // generated is different
     
-    srand((int)time(&t));//To seed the random number generator
+    srand((int)time(&t));
+    
+    //to seed the random number generator with the time of day if we want random numbers with rand()
+    //to be different every time you run a program.
     
     // This would give you a number between 0 and 5, so the +1 makes it 1 to 6
     
