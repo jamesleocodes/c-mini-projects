@@ -25,7 +25,7 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 
 |SR No |Projects  | Author|
 --- | --- | ---|
-|1|Calculator|James Leo|
+|1|calculator|James Leo|
 |2|How happy you are|James Leo|
 |3|Logical operators|James Leo|
 |4|if else|James Leo|
@@ -36,7 +36,8 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |9|switch_short|James Leo|
 |10|putchar|James Leo|
 |11|getchar|James Leo|
-|12|password_test|James Leo|
-|13|concatenate_strings|James Leo|
+|12|Password_test|James Leo|
+|13|Concatenate_strings|James Leo|
 |14|Roll Two Dice|James Leo|
+|15|Data_array|James Leo|
 
