@@ -30,7 +30,7 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |3|Logical operators|James Leo|
 |4|if else|James Leo|
 |5|While loop|James Leo|
-|6|Do While|James Leo|
+|6|Do While|James Leo|f
 |7|Data Test|James Leo|
 |8|continue|James Leo|
 |9|switch_short|James Leo|
@@ -44,3 +44,4 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |17|game_scores|James Leo|
 |18|swap|James Leo|
 |19|customer_id_search|James Leo|
+|20|pointer|James Leo|
