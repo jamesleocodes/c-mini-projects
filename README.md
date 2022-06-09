@@ -46,3 +46,4 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |19|customer_id_search|James Leo|
 |20|pointer|James Leo|
 |21|character_pointer|James Leo|
+|22|malloc|James Leo|
