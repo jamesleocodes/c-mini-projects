@@ -1,0 +1,7 @@
+ Here is the collection of books:
+   #1: 10 Count Trivia by Dean Miller
+   It is 250 pages and costs $14.99
+   #2: Moving from C to C++ by Greg Perry
+   It is 600 pages and costs $39.99
+   #3: The Stand by Stephen King
+   It is 1200 pages and costs $24.99
