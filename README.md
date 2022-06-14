@@ -48,3 +48,4 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |21|character_pointer|James Leo|
 |22|malloc|James Leo|
 |23|Data in structure|James Leo|
+|24|Data in structure pointer|James Leo|
