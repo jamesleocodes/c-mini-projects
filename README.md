@@ -51,3 +51,4 @@ Wellcome Onboard fellow C coder, This is a place where you can start your journe
 |24|Data in structure pointer|James Leo|
 |25|Read_write|James Leo|
 |26|Random_Acess|James Leo|
+|27|Passing_arguments_by_value|James Leo|
